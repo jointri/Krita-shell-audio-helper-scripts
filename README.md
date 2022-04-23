@@ -1,3 +1,6 @@
+NOTICE: THIS REPO WILL BE OBSOLETE WHEN KRITA 5.1 IS RELEASED BECAUSE 5.1 WILL FIX THE ISSUES WITH AUDIO PLAYING.
+
+
 # Krita shell audio helper scripts (It has no name, call it whatever)
 A script to run an audio file such as .wav or .mp3 in the audio player of your choice after a 10 second countdown.
 
